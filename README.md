@@ -1,3 +1,3 @@
 # apnacollegeGitHub
-tutorial for git and gitHub by apna college 
+tutorial for git and gitHub by apna college<br> 
 Author - sk 
